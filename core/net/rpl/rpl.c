@@ -59,7 +59,7 @@
 #if RPL_CONF_STATS
 rpl_stats_t rpl_stats;
 #endif
-
+..
 static enum rpl_mode mode = RPL_MODE_MESH;
 /*---------------------------------------------------------------------------*/
 enum rpl_mode
